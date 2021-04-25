@@ -1,0 +1,11 @@
+/* Estilos personalizados*/
+body {
+
+    background: #f2f2f2;
+}
+
+.header {
+    margin-top: 30px;
+    background-image: url("../img/banner.png");
+    height: 250px;
+}
