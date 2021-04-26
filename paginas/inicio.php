@@ -24,7 +24,7 @@ PxPg6fy4IWvThOE263XmFcJISAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
                         <div class="card" style="width: 18rem;">
                             <img src="../img/estudiantes-1.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Ingeniería en Sistemas</h5>
+                                <h5 class="card-title">INGENIERIA EN SISTEMAS Y REDES INFORMATICAS</h5>
                                 <p class="card-text">Director y administrador de su propia empresa de consultora, desarrolladora de software y proveedora de servicios de redes informáticas, telecomunicación e Internet.</p>
                                 <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
@@ -35,7 +35,7 @@ PxPg6fy4IWvThOE263XmFcJISAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
                         <div class="card" style="width: 18rem;">
                             <img src="../img/estudiantes-2.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Licenciatura en Idiomas</h5>
+                                <h5 class="card-title">LICENCIATURA EN IDIOMA ENGLIS</h5>
                                 <p class="card-text">Podrán desempeñarse en las siguientes áreas de trabajo: Director de Centros Educativos Bilingües,Docente de Idioma inglés para Tercer Ciclo y bachillerato</p>
                                 <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
@@ -60,7 +60,7 @@ PxPg6fy4IWvThOE263XmFcJISAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
                     <video src="../vídeo/FilosofíaInstitucionalUGB.mp4" 
                         type="video/mp4" 
                         poster="../img/portada.png" width="640" height="480" controls></video>
-                        <figcaption><h2>Vídeo: Filosofía Institucional</h2></figcaption>
+                        <figcaption><h2>VIDEO: FILOSOFIA INSTITUCIONAL</h2></figcaption>
                     </figure>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ PxPg6fy4IWvThOE263XmFcJISAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
                 <figure>
                         <h2>Reproducción de audio: Mp3</h2>
                         <audio src="../audio/LaVidaEsUnCarnaval.mp3" controls > </audio>
-                        <figcaption><h2>Canción: La vida es un carnaval</h2></figcaption>
+                        <figcaption><h2>CANCION: LA VIDA ES UN CARNAVAL</h2></figcaption>
                 </figure>
             </article>
         </section>
