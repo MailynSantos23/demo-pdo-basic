@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Diseño con Bootstrap</title>
+    <title>APP PROYECT</title>
 </head>
 
 
@@ -23,25 +23,25 @@
  <a class="nav-link active" href="datosAlumno.php">Estudiantes</a>
  </li>--->
  <li class="nav-item" >
- <a class="nav-link" href="#">Profesores</a>
+ <a class="nav-link" href="#">DOCENTES</a>
  </li>
  <li class="nav-item">
- <a class="nav-link" href="#">Carreras</a>
+ <a class="nav-link" href="#">CARRERAS</a>
  </li>
  <li class="nav-item">
- <a class="nav-link" href="#">Materias</a>
+ <a class="nav-link" href="#">ASIGNATURAS</a>
  </li>
  <li class="nav-item">
- <a class="nav-link" href="#">Horarios</a>
+ <a class="nav-link" href="#">HORARIOS</a>
  </li>
  <li class="nav-item">
- <a class="nav-link" href="usuarios.php">Usuarios</a>
+ <a class="nav-link" href="usuarios.php">USUARIOS</a>
  </li>
  <li class="nav-item">
- <a class="nav-link" href="#">UGB</a>
+ <a class="nav-link" href="#">UIVERSIDAD UGB</a>
  </li> 
  <li class="nav-item">
- <a class="nav-link" href="#">Inicio</a>
+ <a class="nav-link" href="#">PRINCIPAL</a>
  </li>
  <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
